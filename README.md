@@ -1,0 +1,1 @@
+This project offers a comprehensive duty scheduler for doctors, featuring customizable scheduling options for days and shifts. Doctors can easily input their availability and preferences. The system provides a user-friendly interface for managing schedules efficiently. Updates and modifications can be made effortlessly.
